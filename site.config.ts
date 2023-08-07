@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: 'ce90d6edd7f74aeca44e6dd03c882fe9',
+  rootNotionPageId: 'Docker-3a0ccfa597454fcfb214f20546fa23b3',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: "Zuote's Blog Test",
-  domain: 'https://www.notion.so/Personal-Home-ce90d6edd7f74aeca44e6dd03c882fe9',
+  domain: 'https://www.notion.so/Docker-3a0ccfa597454fcfb214f20546fa23b3',
   author: 'ZuoTe',
 
   // open graph metadata (optional)
