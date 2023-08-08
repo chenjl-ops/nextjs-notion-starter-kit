@@ -51,15 +51,15 @@ export default siteConfig({
   // whether to use the default notion navigation style or a custom one with links to
   // important pages
   navigationStyle: 'default'
-  navigationStyle: 'custom',
-  navigationLinks: [
-    {
-      title: 'Docker',
-      pageId: 'Docker-6bb127916e9e4535aa528c9c4eb2bf55'
-    },
-    {
-      title: 'AWS',
-      pageId: 'AWS-2e84771b9eb8480ebed7690bd3c649a5'
-    }
-  ]
+  // navigationStyle: 'custom',
+  // navigationLinks: [
+  //   {
+  //     title: 'Docker',
+  //     pageId: 'Docker-6bb127916e9e4535aa528c9c4eb2bf55'
+  //   },
+  //   {
+  //     title: 'AWS',
+  //     pageId: 'AWS-2e84771b9eb8480ebed7690bd3c649a5'
+  //   }
+  // ]
 })
