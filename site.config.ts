@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: "Zuote's Blog Test",
-  domain: 'https://www.notion.so/zuote/7b4ad0e151f84977897c5b686ce7cc8f?v=5f86958afecb4675b35ab045cd0cf947',
+  domain: 'https://zuote.notion.site/7b4ad0e151f84977897c5b686ce7cc8f?v=5f86958afecb4675b35ab045cd0cf947',
   author: 'ZuoTe',
 
   // open graph metadata (optional)
